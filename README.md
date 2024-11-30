@@ -29,8 +29,8 @@ Hi there! I'm a **Data Scientist** with a passion for turning data into actionab
 ---
 
 ## **🌟 Featured Projects**
-### 📊 **[Diversity-Aware Bundle Recommendation System](https://github.com/Nastaraneb/project-link)**  
-> A novel system to enhance user satisfaction through diversity-aware algorithms.  
+### 📊 **[Recommendation System](https://github.com/Nastaraneb/project-link)**  
+> Multiple recommendation system projects.  
 
 ### 🤖 **[Machine Learning Model Repository](https://github.com/Nastaraneb/project-link)**  
 > A collection of machine learning projects, including regression, classification, and clustering models.  
