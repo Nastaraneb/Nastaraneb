@@ -5,7 +5,7 @@
 
 ## **👋 About Me**
 Hi there! I'm a **Data Scientist** with a passion for turning data into actionable insights and creating impactful models.  
-🎓 **Master’s in Data Science**  
+🎓 **Master’s in Data Science at Tampere University**  
 📍 Currently exploring advanced **Recommendation Systems** projects.  
 
 ---
