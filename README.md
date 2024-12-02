@@ -29,13 +29,10 @@ Hi there! I'm a **Data Scientist** with a passion for turning data into actionab
 ---
 
 ## **🌟 Featured Projects**
-### 📊 **[Recommendation System](https://github.com/Nastaraneb/project-link)**  
+### 📊 **[Recommendation System](https://github.com/Nastaraneb/RecommendationSystem)**  
 > Multiple recommendation system projects.  
 
-### 🤖 **[Machine Learning Model Repository](https://github.com/Nastaraneb/project-link)**  
-> A collection of machine learning projects, including regression, classification, and clustering models.  
-
-### 📈 **[Sales Analytics Dashboard](https://github.com/Nastaraneb/project-link)**  
+### 📈 **[Sales Analytics Dashboard](https://github.com/Nastaraneb/PowerBI)**  
 > Created a dynamic Power BI dashboard to visualize sales trends and KPIs.  
 
 ---
