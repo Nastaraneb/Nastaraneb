@@ -32,7 +32,7 @@ Hi there! I'm a **Data Scientist** with a passion for turning data into actionab
 ### 📊 **[Recommendation System](https://github.com/Nastaraneb/RecommendationSystem)**  
 > Multiple recommendation system projects.  
 
-### 📈 **[Sales Analytics Dashboard](https://github.com/Nastaraneb/PowerBI)**  
+### 📈 **[Analytical Dashboards](https://github.com/Nastaraneb/PowerBI)**  
 > Created a dynamic Power BI dashboard to visualize sales trends and KPIs.  
 
 ---
