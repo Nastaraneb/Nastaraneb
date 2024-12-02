@@ -1,7 +1,7 @@
 # 💻 **Welcome to My GitHub!**  
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Nastaraneb&color=blue&style=flat-square)](https://github.com/YourGitHubUsername)  
-[![GitHub Followers](https://img.shields.io/github/followers/Nastaraneb?style=social)](https://github.com/YourGitHubUsername)
+[![Profile Views](https://komarev.com/ghpvc/?username=Nastaraneb&color=blue&style=flat-square)](https://github.com/Nastaraneb)  
+[![GitHub Followers](https://img.shields.io/github/followers/Nastaraneb?style=social)](https://github.com/Nastaraneb)
 
 ---
 
